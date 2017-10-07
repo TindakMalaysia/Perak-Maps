@@ -1,0 +1,4 @@
+# Disclaimer
+
+The files are not an authority on electoral, coastal and administrative boundaries. Not be viewed at scales greater than 1:80 000. May contain errors and omissions
+
